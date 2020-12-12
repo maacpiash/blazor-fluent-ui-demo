@@ -5,4 +5,8 @@
     <NoDefaultLaunchSettingsFile>True</NoDefaultLaunchSettingsFile>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="BlazorFluentUI.AllComponents" Version="3.1.6" />
+  </ItemGroup>
+
 </Project>
